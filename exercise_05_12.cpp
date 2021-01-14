@@ -1,0 +1,1 @@
+//switch only detects integral type. Two-character types cannot be represented by a char type. Hence it's infeasible.
